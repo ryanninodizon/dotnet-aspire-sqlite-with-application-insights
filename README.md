@@ -1,0 +1,1 @@
+# dotnet-aspire-sqlite-with-application-insights
